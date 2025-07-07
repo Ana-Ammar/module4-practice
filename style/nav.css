@@ -1,0 +1,14 @@
+nav ul{
+    display: flex;
+    gap: 20px;
+}
+nav ul li{
+    list-style: none;
+}
+nav li :hover{
+    background-color: antiquewhite;
+}
+nav li a{
+    text-decoration: none;
+    color: black;
+}
